@@ -1,0 +1,6 @@
+from PIL import Image
+import matplotlib.pyplot as plt
+
+img = Image.open("/mnt/data/file-3UnoV45K9fUi3zRTTaZgVe")
+plt.imshow(img)
+plt.axis('off')
