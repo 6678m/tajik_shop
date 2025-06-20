@@ -1,1 +1,1 @@
-pip install pillow matplotlib
+pip install pillow matplotlib иловаи борҳо 
